@@ -4,6 +4,7 @@
 - You can reach me by the email parthaga13@gmail.com
 - To download flash you can use this link http://www.adobe.com/go/getflashplayer   .
 - Please tell me if you want tutorials also .
+- Note!!! Before copying any code to upload them by yourself please take permision becuse some of my codes are copyright .
 
 <!---
 Parth1668/Parth1668 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
